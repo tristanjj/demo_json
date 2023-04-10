@@ -1,34 +1,66 @@
 {
     "auction": [
         {
-            "ID": 5,
-            "No": "5",
-            "Date": "31 มกราคม 2566",
-            "Location": "หาดใหญ่ AAAA"
+            "id": 5,
+            "no": "5",
+            "date": "31 มกราคม 2566",
+            "location": "หาดใหญ่ AAAA"
         },
         {
-            "ID": 4,
-            "No": "4",
-            "Date": "20 มกราคม 2566",
-            "Location": "หาดใหญ่ BBBB"
+            "id": 4,
+            "no": "4",
+            "date": "20 มกราคม 2566",
+            "location": "หาดใหญ่ BBBB"
         },
         {
-            "ID": 3,
-            "No": "3",
-            "Date": "18 มกราคม 2566",
-            "Location": "หาดใหญ่ CCCC"
+            "id": 3,
+            "no": "3",
+            "date": "18 มกราคม 2566",
+            "location": "หาดใหญ่ CCCC"
         },
         {
-            "ID": 2,
-            "No": "2",
-            "Date": "10 มกราคม 2566",
-            "Location": "หาดใหญ่ DDDD"
+            "id": 2,
+            "no": "2",
+            "date": "10 มกราคม 2566",
+            "location": "หาดใหญ่ DDDD"
         },
         {
-            "ID": 1,
-            "No": "1",
-            "Date": "5 มกราคม 2566",
-            "Location": "หาดใหญ่ EEEE"
+            "id": 1,
+            "no": "1",
+            "date": "5 มกราคม 2566",
+            "location": "หาดใหญ่ EEEE"
+        }
+    ],
+    "weightslip": [
+        {
+            "id": 1,
+            "no": "1",
+            "code": "AA000",
+            "weight": 10.5
+        },
+        {
+            "id": 2,
+            "no": "2",
+            "date": "BBBB00",
+            "weight": 11.5
+        },
+        {
+            "id": 3,
+            "no": "3",
+            "date": "CCC000",
+            "weight": 12.5
+        },
+        {
+            "id": 4,
+            "no": "4",
+            "date": "DDD000",
+            "weight": 15.5
+        },
+        {
+            "id": 5,
+            "no": "5",
+            "date": "EEE",
+            "weight": 18.5
         }
     ]
 }
