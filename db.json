@@ -41,25 +41,25 @@
         {
             "id": 2,
             "no": "2",
-            "date": "BBBB00",
+            "code": "BBBB00",
             "weight": 11.5
         },
         {
             "id": 3,
             "no": "3",
-            "date": "CCC000",
+            "code": "CCC000",
             "weight": 12.5
         },
         {
             "id": 4,
             "no": "4",
-            "date": "DDD000",
+            "code": "DDD000",
             "weight": 15.5
         },
         {
             "id": 5,
             "no": "5",
-            "date": "EEE",
+            "code": "EEE",
             "weight": 18.5
         }
     ]
