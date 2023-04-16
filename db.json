@@ -31,48 +31,53 @@
             "location": "หาดใหญ่ EEEE"
         }
     ],
-    "weightslip": [
-        {
-            "id": 1,
-            "no": "1",
-            "code": "AA000",
-            "weight": 10.5
-        },
-        {
-            "id": 2,
-            "no": "2",
-            "code": "BBBB00",
-            "weight": 11.5
-        },
-        {
-            "id": 3,
-            "no": "3",
-            "code": "CCC000",
-            "weight": 12.5
-        },
-        {
-            "id": 4,
-            "no": "4",
-            "code": "DDD000",
-            "weight": 15.5
-        },
-        {
-            "id": 5,
-            "no": "5",
-            "code": "EEE",
-            "weight": 18.5
-        }        ,
-        {
-            "id": 6,
-            "no": "6",
-            "code": "FFF",
-            "weight": 13.5
-        }        ,
-        {
-            "id": 7,
-            "no": "7",
-            "code": "GGG",
-            "weight": 11.0
-        }
-    ]
+    "weightslip": {
+        "id": 1,
+        "no": "1",
+        "date": "5 มกราคม 2566",
+        "data": [
+            {
+                "id": 1,
+                "no": "1",
+                "code": "AA000",
+                "weight": 10.5
+            },
+            {
+                "id": 2,
+                "no": "2",
+                "code": "BBBB00",
+                "weight": 11.5
+            },
+            {
+                "id": 3,
+                "no": "3",
+                "code": "CCC000",
+                "weight": 12.5
+            },
+            {
+                "id": 4,
+                "no": "4",
+                "code": "DDD000",
+                "weight": 15.5
+            },
+            {
+                "id": 5,
+                "no": "5",
+                "code": "EEE",
+                "weight": 18.5
+            },
+            {
+                "id": 6,
+                "no": "6",
+                "code": "FFF",
+                "weight": 13.5
+            },
+            {
+                "id": 7,
+                "no": "7",
+                "code": "GGG",
+                "weight": 11.0
+            }
+        ]
+    }
 }
