@@ -61,6 +61,18 @@
             "no": "5",
             "code": "EEE",
             "weight": 18.5
+        }        ,
+        {
+            "id": 6,
+            "no": "6",
+            "code": "FFF",
+            "weight": 13.5
+        }        ,
+        {
+            "id": 7,
+            "no": "7",
+            "code": "GGG",
+            "weight": 11
         }
     ]
 }
